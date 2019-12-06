@@ -1,12 +1,7 @@
 
-nav {
-	position: fixed;
-	height: 100%;
-}
-
 #navbar {
 	display: block;
-	position: relative;
+	position: fixed;
 	height: 100%;
 	width: 50%;
 	top: 50px;
